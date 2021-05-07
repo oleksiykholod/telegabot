@@ -1,9 +1,5 @@
 import telebot
-import json
-import requests
-import config
-
-bot = telebot.TeleBot(config.TOKEN)
+bot = telebot.TeleBot("1802139186:AAG5dN1_lzT8hquhY3qu_sRSiE8kIE4MF4I")
 
 
 def log(message):
